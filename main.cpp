@@ -35,6 +35,9 @@ int main()
                 printVector(projects); // Prints vector with space after each cell
                 cout<<"\n\nQuiz Scores:\n";
                 printVector(quizzes); // Prints vector with space after each cell
+
+                cout << endl; // new line after quiz scores printed
+                cout << endl;
         }
         else
         {
